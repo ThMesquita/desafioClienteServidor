@@ -2,7 +2,7 @@
 // Configurações do banco
 $db_host = "127.0.0.1";
 $db_user = "root";
-$db_pass = "SUA_SENHA_DO_MARIADB";
+$db_pass = "senha";
 $db_name = "cliente_servidor";
 
 // Conexão
