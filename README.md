@@ -104,3 +104,5 @@ http://<DNS-PUBLICO-DA-EC2>
 
 - A página inicial deve mostrar o formulário para envio de mensagens.
 - Mensagens enviadas são salvas na tabela mensagens do banco cliente_servidor.
+
+![alt text](image.png)
